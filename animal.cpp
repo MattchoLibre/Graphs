@@ -1,10 +1,6 @@
 #include "program5.h"
 /*
-Matthew Penner
-Professor Fant
-CS163 Data Structures
 
---------------------------------------------------------------
 This is the animal .cpp file where I have the constructor, 
 destructor, and respective functions that allow forthe program to 
 work efficiently with as minimal memory leaks as possible.
