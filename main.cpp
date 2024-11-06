@@ -1,9 +1,5 @@
 /*
-Matthew Penner
-Professor Fant
-CS163 Data Structures
 
-----------------------------------------------------------------------
 
 This is the main client side file, where code is run, and of course, 
 in this file you do not need to know what ADT is being used.  I 
