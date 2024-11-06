@@ -1,9 +1,5 @@
 /*
-Matthew Penner
-Professor Fant
-CS163 Data Structures
 
-----------------------------------------------------------------------
 
 This is the .h file where I have initialized each of the structs and
 the table class.  I am also reusing my animal struct from the previous
