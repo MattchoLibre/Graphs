@@ -1,9 +1,5 @@
 /*
-Matthew Penner
-Professor Fant
-CS163 Data Structures
 
-----------------------------------------------------------------------
 Here is the main cpp file for Program5 where I have written the main
 functions for the program below.  These functions include a recursive
 remove function for the destructor, the constructor, the function to 
